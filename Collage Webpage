@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Webpage</title>
+<body bgcolor="Yellow">
+<marquee>Welcome user</marquee>
+<hr>
+<h1><center><fontcolor="white"face="algerian"size="16"</center><center>GITARATAN INTERNATIONAL BUISNESS SCHOOL</center><br><center>WELCOME USER</center></h1>
+<br><img align="right"src="C:\Users\Public\Pictures\Sample Pictures\Hydrangeas.jpg"width="300"height="300">
+<hr>
+<ol align="left">
+<li>courses offered at gibs</li>
+<ul type="Circle">
+<li>MBA</li>
+<li>MBA-IB</li>
+<li>MCA</li>
+<li>MCA DUAL DEGREE</li>
+</ul>
+</body>
+</head>
+</html>
+<hr>
+<li>courses offered at gibs</li>
+<ul type="square">
+<li>MBA</li>
+<li>MBA-IB</li>
+<li>MCA</li>
+<li>MCA DUAL DEGREE</li>
+</ul>
+</OL>
+</body>
+</head>
+</html>
